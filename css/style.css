@@ -1,0 +1,113 @@
+.container {
+    background-color: #3399cc;
+    width: 1027px;
+    margin: 27px auto 0 auto;
+    padding: 34px 0 90px 0;
+    border: 17px #2b81ac solid;
+    font-family: sans-serif;
+}
+
+.forecastTable {
+    font-size: 0px;
+    border: 2px solid #fff;
+}
+
+.cell {
+    display: inline-block;
+    font-size: 18px;
+    border: 2px solid #fff;
+    padding: 20px 0 6px 0;
+    color: #fff;
+}
+
+.cell span i {
+    font-size: 25px;
+}
+
+.title {
+    font-weight: 400;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: -1.2px;
+    text-align: left;
+    margin: 0 0 16px 0px;
+}
+
+.wrapper {
+    width: 688px;
+    margin: 0 auto;
+}
+
+.cell span {
+    line-height: 50px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.cell:first-child {
+    width: 50%;
+    background-color: #3399cc;
+}
+
+.cell:nth-child(2) {
+    width: 25%;
+    background-color: #33cccc;
+}
+
+
+.cell:nth-child(3) {
+    width: 25%;
+    background-color: #996699;
+}
+
+.cell:nth-child(4) {
+    width: 25%;
+    background-color: #c24747;
+}
+
+.cell:nth-child(5) {
+    width: 25%;
+    background-color: #e2674a;
+}
+
+.cell:nth-child(6) {
+    width: 25%;
+    background-color: #ffcc66;
+}
+
+.cell:nth-child(7) {
+    width: 25%;
+    background-color: #99cc99;
+}
+
+.cell:nth-child(8) {
+    width: 25%;
+    background-color: #669999;
+}
+
+.cell:nth-child(9) {
+    width: 50%;
+    background-color: #cc6699;
+}
+
+.cell:nth-child(10) {
+    width: 25%;
+    background-color: #339966;
+}
+
+.cell:nth-child(11) {
+    width: 100%;
+    background-color: #666699;
+}
+
+.info {
+    width: 534px;
+    margin: 25px 0 0 0;
+    color: #fff;
+}
+
+
+
+
+
+
+
